@@ -1,0 +1,1 @@
+{"code":"class Student{\n    int marks=100;\n}\n\nfunction getName(){\n    string sname = scan();\n    return sname;\n}\n\nStudent s;\n\nsname = getName();\nprint(sname);\nprint(s.marks);"}

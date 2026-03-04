@@ -1,0 +1,8 @@
+// src/utils/tokenTypes.js
+export const TOKEN_TYPES = {
+  KEYWORD: "KEYWORD",
+  IDENTIFIER: "IDENTIFIER",
+  NUMBER: "NUMBER",
+  OPERATOR: "OPERATOR",
+  SEMICOLON: "SEMICOLON",
+};
